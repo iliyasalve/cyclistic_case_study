@@ -7,7 +7,7 @@ This repository contains the analysis of a bike-sharing system, aimed at answeri
 ## Contents of this Repository
 This repository contains the following documents and folders:
 - `Report.pdf`: The analysis report.
-- `Report_Projeck.Rmd`: The analysis report in Markdown format.
+- `Project_Report.Rmd`: The analysis report in Markdown format.
 - `data_process.r`: The script with commands for data processing.
 - `data_analyze.r`: The script with commands for data analysis.
 - `Visualisations`: Images generated from the analysis.
